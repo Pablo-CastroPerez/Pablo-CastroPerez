@@ -5,4 +5,4 @@
 - 🔬 Interests: Condensed Matter Physics | Quantum Devices | Simulation  
 - ⚙️ I enjoy developing parallel programs and exploring computational models to study quantum systems.  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-castro-p%C3%A9rez-a4a2042a0/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />](https://www.linkedin.com/in/pablo-castro-p%C3%A9rez-a4a2042a0/)
