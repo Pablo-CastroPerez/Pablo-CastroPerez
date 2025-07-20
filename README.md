@@ -7,16 +7,16 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-castro-p%C3%A9rez-a4a2042a0/)
 
-##  Languages and Tools
+## Languages and Tools
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### Languages  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-### Parallel Libraries
-![MPI](https://img.shields.io/badge/MPI-000000?style=for-the-badge&logo=mpich&logoColor=white)
-![OpenMP](https://img.shields.io/badge/OpenMP-003366?style=for-the-badge&logo=openmp&logoColor=white)
+### Parallel Libraries  
+![MPI](https://img.shields.io/badge/MPI-000000?style=flat-square&logo=mpich&logoColor=white)
+![OpenMP](https://img.shields.io/badge/OpenMP-003366?style=flat-square&logo=openmp&logoColor=white)
 
-### Quantum Tools
-![QuTiP](https://img.shields.io/badge/QuTiP-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Quantum Tools  
+![QuTiP](https://img.shields.io/badge/QuTiP-3776AB?style=flat-square&logo=python&logoColor=white)
