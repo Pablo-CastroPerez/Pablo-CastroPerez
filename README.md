@@ -15,3 +15,6 @@
 ![MPI](https://img.shields.io/badge/MPI-000000?style=flat-square&logo=mpich&logoColor=white)
 ![OpenMP](https://img.shields.io/badge/OpenMP-003366?style=flat-square&logo=openmp&logoColor=white) 
 ![QuTiP](https://img.shields.io/badge/QuTiP-3776AB?style=flat-square&logo=python&logoColor=white)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-CastroPerez&layout=compact&hide=html,jupyter%20notebook)
